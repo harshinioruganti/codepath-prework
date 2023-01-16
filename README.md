@@ -2,7 +2,7 @@
 
 ### App Description
 
-`TODO://` This app asks the user to input information about themselves and creates an alert introducing the student using the details they inputed. 
+This app asks the user to input information about themselves and creates an alert introducing the student using the details they inputed. 
 
 ### App Walk-though
 
